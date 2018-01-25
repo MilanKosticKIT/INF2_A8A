@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aufgabe_8</string>
+
+    <string name="btn_add_note">Add task</string>
+    <string name="btn_delete_note">Done</string>
+
+    <string name="tv_title">Title:</string>
+    <string name="tv_description">Description:</string>
+
+    <string name="btn_close">Close</string>
+</resources>
